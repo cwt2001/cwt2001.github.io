@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-I am a graduate majoring in statistics from USTC. My Github Page: <https://github.com/cwt2001>. 
