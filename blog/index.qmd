@@ -1,0 +1,6 @@
+---
+title: "Blog"
+---
+
+This website aims to capture some thoughts and record some useful resources. 
+
